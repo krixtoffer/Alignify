@@ -1,0 +1,12 @@
+name: alignify
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - scikit-image
+  - tifffile
+  - napari=0.5.*
+  - pyqt
+  - qtpy
