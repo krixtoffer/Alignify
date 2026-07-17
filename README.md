@@ -24,8 +24,7 @@ see the "Running the tool" section below.
 
 ![Alignify interface](alignify_screenshot.png)
 
-*Current frame (magenta) is overlaid on the previous frame (green), with a
-reference grid to help judge alignment. The controls panel on the right
+*Current frame (magenta) is overlaid on the previous frame (green). The controls panel on the right
 lists all keyboard shortcuts.*
 
 ---
